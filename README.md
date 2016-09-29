@@ -1,6 +1,6 @@
 # PyGurobi
 
-This repository solves the factory planning example available on the [Gurobi website](http://www.gurobi.com/resources/examples/factory-planning-I). We use the code in [GurobiVideos](https://www.youtube.com/watch?v=5mct7ltVeVc) channel in Youtube. 
+This repository solves the factory planning example available on the [Gurobi website](http://www.gurobi.com/resources/examples/factory-planning-I). We use the code presented at [GurobiVideos channel](https://www.youtube.com/watch?v=5mct7ltVeVc) in Youtube. 
 
 **Note that the problem description and code are exactly the same as Gurobi website.**
 
