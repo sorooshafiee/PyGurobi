@@ -51,3 +51,8 @@ Up to 100 units of each product may be stored in inventory at a cost of $0.50 pe
 The factory produces product six days a week using two eight-hour shifts per day. It may be assumed that each month consists of 24 working days. Also, for the purposes of this model, there are no production sequencing issues that need to be taken into account.
 
 What should the production plan look like?
+
+## Model Formulation
+
+### Sets
+Let $T$ be
