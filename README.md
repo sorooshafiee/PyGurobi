@@ -15,11 +15,14 @@ A factory makes seven products (Prod 1 to Prod 7) using a range of machines incl
 
 Each product has a defined profit contribution per unit sold (defined as the sales price per unit minus the cost of raw materials). In addition, the manufacturing of each product requires a certain amount of time on each machine (in hours). The contribution and manufacturing time value are shown below. A dash indicates the manufacturing product for the given product does not require that machine.
 
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-
+|     | PROD 1 | PROD 2 | PROD 3 | PROD 4 | PROD 5 | PROD 6 | PROD 7 |
+| ------------ | ------------- | ------------ | ------------- | ------------ | ------------- | ------------ | ------------- |
+| Contribution to profit | 0.5 | 0.7 | - | - | 0.3 | 0.2 | 0.5 |
+| Grinding | 0.1 | 0.2 | - | 0.3 | - | 0.6 | - |
+| Vertical drilling | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 |
+| Horizontal drilling | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 |
+| Boring | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 |
+| Planing | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 | Content column 1 | Content column 2 |
 
 In each of the six months covered by this model, one or more of the machines is scheduled to be down for maintenance and as a result will not be available to use for production that month. The maintenance schedule is as follows:
 
